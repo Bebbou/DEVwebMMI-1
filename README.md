@@ -9,4 +9,4 @@ l'objectif nest pas de copier un code bêtement, c'est de comprendre ce qu'ils f
 
 je nai pas pour habitude de rajouter des commentaires mais si vous le souhaitez, j'en rajouterai ce nest pas compliqué 
 
-sur ce, bisous et bonne utilisation 
+sur ce, bisous et bonne utilisation de se github https://github.com/Bebbou/DEVwebMMI-1
