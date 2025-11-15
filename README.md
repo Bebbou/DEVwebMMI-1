@@ -1,12 +1,28 @@
-# DEVwebMMI-1
-oui cest très mal ranger,
+# DEVweb MMI-1
 
-oui je ferai un truc un peu plus clean quand je serai disponible 
+Coucou !
 
-oui je redte joignable via commit ou MP si vous avez une question ou besoin d'aide.
+Je vais uploader de temps en temps les TP et différentes activités que nous réalisons en DEV-WEB.
 
-l'objectif nest pas de copier un code bêtement, c'est de comprendre ce qu'ils faits !
+Évidemment, n'hésitez pas à me poser des questions et, si vous le souhaitez, ajoutez aussi vos codes pour que l’on puisse comparer et s’améliorer !
 
-je nai pas pour habitude de rajouter des commentaires mais si vous le souhaitez, j'en rajouterai ce nest pas compliqué 
+## Documentation
 
-sur ce, bisous et bonne utilisation de se github https://github.com/Bebbou/DEVwebMMI-1
+[TD1](https://linktodocumentation) ── infoadd_unjour
+ 
+[TD2](https://linktodocumentation) ── infoadd_unjour
+
+## Feedback
+
+Si vous voulez m’apporter des retours, **n’hésitez pas** ! Cela m’aide énormément.
+Vous pouvez me joindre à l’adresse suivante :
+
+ lino.volle.dev@gmail.com
+ ou lino.volle@etu.umontpellier.fr
+
+## Responsable et Contributeur
+
+- Volle Lino [(GitHub)](https://github.com/Bebbou) / [(Instagram)](https://www.instagram.com/lino.volle) / [(Discord - @bebou.png)](https://discord.com)
+- :D
+
+
