@@ -10,9 +10,9 @@ Le liens du GitHub au besoin : https://github.com/Bebbou/DEVwebMMI-1
 
 ## Documentation
 
-[TD1](https://github.com/Bebbou/DEVwebMMI-1/tree/main/TD/TD1) ── infoadd_unjour 
+[gitTD1](https://github.com/Bebbou/DEVwebMMI-1/tree/main/TD/TD1) ── [webTD1(https://bebbou.github.io/DEVwebMMI-1/TD/TD1)
  
-[TD2](https://github.com/Bebbou/DEVwebMMI-1/tree/main/TD/TD2) ── infoadd_unjour
+[gitTD2](https://github.com/Bebbou/DEVwebMMI-1/tree/main/TD/TD2) ── [webTD2(https://bebbou.github.io/DEVwebMMI-1/TD/TD2)
 
 ## Feedback
 
