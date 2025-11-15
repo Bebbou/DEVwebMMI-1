@@ -10,9 +10,9 @@ Le liens du GitHub au besoin : https://github.com/Bebbou/DEVwebMMI-1
 
 ## Documentation
 
-[gitTD1](https://github.com/Bebbou/DEVwebMMI-1/tree/main/TD/TD1) ── [webTD1(https://bebbou.github.io/DEVwebMMI-1/TD/TD1)
+[gitTD1](https://github.com/Bebbou/DEVwebMMI-1/tree/main/TD/TD1) ── [webTD1](https://bebbou.github.io/DEVwebMMI-1/TD/TD1)
  
-[gitTD2](https://github.com/Bebbou/DEVwebMMI-1/tree/main/TD/TD2) ── [webTD2(https://bebbou.github.io/DEVwebMMI-1/TD/TD2)
+[gitTD2](https://github.com/Bebbou/DEVwebMMI-1/tree/main/TD/TD2) ── [webTD2](https://bebbou.github.io/DEVwebMMI-1/TD/TD2)
 
 ## Feedback
 
