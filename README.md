@@ -12,7 +12,7 @@ Le liens du GitHub au besoin : https://github.com/Bebbou/DEVwebMMI-1
 
 [TD1](https://github.com/Bebbou/DEVwebMMI-1/tree/main/TD/TD1) ── infoadd_unjour 
  
-[TD2]([https://linktodocumentation](https://github.com/Bebbou/DEVwebMMI-1/tree/main/TD/TD2)) ── infoadd_unjour
+[TD2](https://github.com/Bebbou/DEVwebMMI-1/tree/main/TD/TD2)) ── infoadd_unjour
 
 ## Feedback
 
