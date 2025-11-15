@@ -1,0 +1,17 @@
+
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>TD2</title>
+  </head>
+  <body>
+    <div id="controls">
+      <label for="vibrationSelector">Intensité / Rayon Maximal:</label>      
+      <input id="vibrationSelector" min="50" max="250" value="150" type="range" oninput="lancerAnimation()"/>
+    </div>
+    <canvas id="echoCanvas" width="500" height="500" style="border: 2px solid #00ccff; background-color: #1a1a2e"></canvas>
+    <script src="script.js"></script>
+  </body>
+</html>
